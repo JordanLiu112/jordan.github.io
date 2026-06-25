@@ -18,8 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home", sidebaricon: home}
-  - {file: "README.md", title: "About me", sidebaricon: address-card}
+  - {file: "/resume.pdf", title: "CV", sidebaricon: home}
+  - {file: "/thesis.pdf", title: "Thesis", sidebaricon: address-card}
+  - {=title: "Options pricer", url: "https://github.com/JordanLiu112/My_option_pricing_program"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jordanliu112@gmail.com"}
