@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/resume.pdf", title: "CV", sidebaricon: home}
+  - {title: "CV", url: "https://docs.google.com/document/d/14CxTij2cndY2tARIjIrx-uX5abmhQAjRuG_BHMgggQ0"}
   - {title: "Thesis", url: "https://docs.google.com/document/d/1HXXoG7gAqiLI4wJ99RNM-c-mFOGUfARf"}
   - {title: "Options pricer", url: "https://github.com/JordanLiu112/My_option_pricing_program"}
   - {title: "Work blog", file: "blog.md"}
