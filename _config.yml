@@ -18,8 +18,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: [CV](/resume.pdf), sidebaricon: home}
-  - {file: thesis.pdf, title: "Thesis", sidebaricon: address-card}
+  - {file: "/resume.pdf", title: "CV", sidebaricon: home}
+  - {url:"https://docs.google.com/document/d/1HXXoG7gAqiLI4wJ99RNM-c-mFOGUfARf/edit?usp=sharing&ouid=100510868119582604090&rtpof=true&sd=true", title: "Thesis", sidebaricon: address-card}
   - {title: "Options pricer", url: "https://github.com/JordanLiu112/My_option_pricing_program"}
   - {title: "Work blog", file: "blog.md"}
 
