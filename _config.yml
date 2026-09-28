@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Thesis", url: "https://docs.google.com/document/d/1HXXoG7gAqiLI4wJ99RNM-c-mFOGUfARf"}
   - {title: "Options pricer", url: "https://github.com/JordanLiu112/My_option_pricing_program"}
-  - {title: "Work blog", file: "blog.md"}
+  - {title: "Project blog", file: "blog.md"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jordanliu112@gmail.com"}
