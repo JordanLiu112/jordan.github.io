@@ -6,4 +6,4 @@ Hi, I'm Jordan. I'm a Master’s student in [Applied Data Science](https://www.c
 
 I have a strong background in Economics, as I graduated from the University of Oxford with a [BA in History and Economics](https://www.history.ox.ac.uk/ba-history-and-economics). 
 
-My [thesis](https://docs.google.com/document/d/1HXXoG7gAqiLI4wJ99RNM-c-mFOGUfARf) can be read on Google Documents, linked above. There is also a link to a Github repository of my [C++ option pricing project](https://github.com/JordanLiu112/My_option_pricing_program), as well as a work blog that covers projects I've done as part of my Taiping Life Insurance internship
+My [thesis](https://docs.google.com/document/d/1HXXoG7gAqiLI4wJ99RNM-c-mFOGUfARf) can be read on Google Documents, linked above. There is also a link to a Github repository of my [C++ option pricing project](https://github.com/JordanLiu112/My_option_pricing_program), as well as a blog that covers projects I've done from work and my master's program. 
