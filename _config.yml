@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Project Blog", file: "blog.md"}
-  - {title: "LinkedIn", url: "www.linkedin.com/in/jordan-liu-cmu"}
+  - {title: "LinkedIn", url: "https://www.linkedin.com/in/jordan-liu-cmu"}
   - {title: "GitHub", url: "https://github.com/JordanLiu112"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
